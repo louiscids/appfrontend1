@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-nav{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: end;
+    padding: 20px;
+}
+
+.container-botones button{
+    height: 30px;
+    width: 60px;
+    background-color: blue;
+
+}
+
